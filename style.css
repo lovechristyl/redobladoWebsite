@@ -1,0 +1,14 @@
+.logo{
+    width: 60px;
+}
+.navbar{
+    background-color: rgb(1, 172, 129);
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+}
+.active{
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
